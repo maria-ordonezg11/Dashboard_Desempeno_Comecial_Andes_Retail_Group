@@ -160,6 +160,13 @@ Equipo, durante 2024–2025 observamos variaciones importantes en los ingresos, 
 
 Hay oportunidades claras en optimizar regiones débiles y potenciar segmentos Premium.
 
+## 🚀 Entrega Final
+El proyecto puede consultarse mediante:
+
+🔗 Imágenes al final de este repositorio
+
+✔️ Archivo incluido directamente en este repositorio
+
 <p align="center">
   <img src="Vista_General.png" width="700">
 </p>
