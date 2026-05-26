@@ -159,3 +159,11 @@ Las variaciones se explican por desempeño desigual entre países, estacionalida
 Equipo, durante 2024–2025 observamos variaciones importantes en los ingresos, con una caída marcada en el primer semestre y una recuperación hacia fin de año. El crecimiento está impulsado por Perú y las categorías de Deportes/Electrónica, mientras que Colombia y segmentos de bajo margen explican las caídas.
 
 Hay oportunidades claras en optimizar regiones débiles y potenciar segmentos Premium.
+
+<p align="center">
+  <img src="Vista_General.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Vista_Detalle.png" width="700">
+</p>
